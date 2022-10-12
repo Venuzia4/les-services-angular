@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sex on the beach",
+        "price": 10,
+        "img": "https://img.cuisineaz.com/660x660/2019/07/10/i147916-sex-on-the-beach.jpeg"
+    },
+     {
+        "name": "Marguarita",
+        "price": 13,
+        "img": "https://resize.elle.fr/original/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/margarita-2037408/9397186-12-fre-FR/Margarita.jpg"
+    },
+     {
+        "name": "Martini",
+        "price": 8,
+        "img": "https://cdn.pratico-pratiques.com/app/uploads/sites/4/2018/08/30185238/dry-martini.jpeg"
+    }
+]

@@ -1,0 +1,15 @@
+p{
+    text-align: center;
+}
+
+
+
+.cocktails{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 20%;
+    height: 20%;
+    border-radius:10px;
+    
+}
